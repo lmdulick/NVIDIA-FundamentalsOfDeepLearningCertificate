@@ -1,2 +1,3 @@
-# NVIDIA-FundamentalsOfDeepLearningCertificate
-NVIDIA - Fundamentals of Deep Learning Certificate
+# NVIDIA - Fundamentals of Deep Learning Certificate
+January 2024 - February 2024
+
